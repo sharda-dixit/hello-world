@@ -1,0 +1,1 @@
+parint('Hello, world!')
